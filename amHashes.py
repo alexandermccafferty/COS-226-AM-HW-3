@@ -13,6 +13,7 @@ titleList = []
 quoteList = []
 hashSize = 15000
 
+#next is for linkedlist, get this out of here
 def fillTitle():
     for i in range(1, hashSize):
         current = Movie()
